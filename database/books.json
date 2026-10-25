@@ -1,0 +1,153 @@
+[
+    {
+        "Title": "Automate The Boring Stuff With Python",
+        "Author": "Ai Sweigart",
+        "Category": "Programming",
+        "Book-ID": "BOOK.396709F7t9u21",
+        "Status": "Available",
+        "Total Copies": 10,
+        "Available": 9,
+        "Issued": 1,
+        "Reserved-By": [],
+        "Issued-To": [
+            {
+                "Member-ID": "MEM.9am5Q995609",
+                "Name": "Gh Nabi Sohu",
+                "Transaction-ID": "TRX.34177",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            }
+        ]
+    },
+    {
+        "Title": "Django For Beginners",
+        "Author": "William S. Vincent",
+        "Category": "Uncatrgorized",
+        "Book-ID": "BOOK.H754477M8O786",
+        "Status": "Available",
+        "Total Copies": 10,
+        "Available": 9,
+        "Issued": 1,
+        "Reserved-By": [],
+        "Issued-To": [
+            {
+                "Member-ID": "MEM.9am5Q995609",
+                "Name": "Gh Nabi Sohu",
+                "Transaction-ID": "TRX.86538",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            }
+        ]
+    },
+    {
+        "Title": "C++ Crash Course",
+        "Author": "Josh Lospinoso",
+        "Category": "Programming",
+        "Book-ID": "BOOK.174C6792832jk",
+        "Status": "Available",
+        "Total Copies": 10,
+        "Available": 8,
+        "Issued": 2,
+        "Reserved-By": [],
+        "Issued-To": [
+            {
+                "Member-ID": "MEM.9am5Q995609",
+                "Name": "Gh Nabi Sohu",
+                "Transaction-ID": "TRX.91284",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            },
+            {
+                "Member-ID": "MEM.56622RO80N8",
+                "Name": "Akram Khan",
+                "Transaction-ID": "TRX.95872",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            }
+        ]
+    },
+    {
+        "Title": "The Web Application Hacker'S Handbook",
+        "Author": "Dafydd Stuttard",
+        "Category": "Ethical Hacking",
+        "Book-ID": "BOOK.82N54907971xv",
+        "Status": "Available",
+        "Total Copies": 10,
+        "Available": 10,
+        "Issued": 0,
+        "Reserved-By": [],
+        "Issued-To": []
+    },
+    {
+        "Title": "The Web Application Hacker'S Handbook",
+        "Author": "Paul Browning",
+        "Category": "Networking",
+        "Book-ID": "BOOK.a7753527E134o",
+        "Status": "Available",
+        "Total Copies": 10,
+        "Available": 10,
+        "Issued": 0,
+        "Reserved-By": [],
+        "Issued-To": []
+    },
+    {
+        "Title": "Kali Lunux",
+        "Author": "Taleb Akram",
+        "Category": "Ethical Hacking",
+        "Book-ID": "BOOK.5703X7t64S086",
+        "Status": "Issued",
+        "Total Copies": 1,
+        "Available": 0,
+        "Issued": 1,
+        "Reserved-By": [
+            {
+                "Member-ID": "MEM.18TT8v94623",
+                "Name": "Masoom Ali",
+                "Reserve Date": "19-06-2026"
+            }
+        ],
+        "Issued-To": [
+            {
+                "Member-ID": "MEM.56622RO80N8",
+                "Name": "Akram Khan",
+                "Transaction-ID": "TRX.32648",
+                "Issue Date": "19-06-2026",
+                "Due Date": "26-06-2026"
+            }
+        ]
+    },
+    {
+        "Title": "1984",
+        "Author": "George Orwell",
+        "Category": "Fiction",
+        "Book-ID": "BOOK.867663d58D1l2",
+        "Status": "Available",
+        "Total Copies": 10,
+        "Available": 7,
+        "Issued": 3,
+        "Reserved-By": [],
+        "Issued-To": [
+            {
+                "Member-ID": "MEM.82636L033BK",
+                "Name": "Israr Ali",
+                "Transaction-ID": "TRX.67157",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            },
+            {
+                "Member-ID": "MEM.63556930WuI",
+                "Name": "Wahaj Ali",
+                "Transaction-ID": "TRX.91179",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            },
+            {
+                "Member-ID": "MEM.56622RO80N8",
+                "Name": "Akram Khan",
+                "Transaction-ID": "TRX.11653",
+                "Issue Date": "22-06-2026",
+                "Due Date": "29-06-2026"
+            }
+        ]
+    }
+]
