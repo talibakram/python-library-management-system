@@ -123,6 +123,12 @@ The application uses JSON files to store administrator, member, and book records
 
 Keep the required database files in the `database/` directory to ensure the application can access its stored records.
 
+## Sample Data Disclaimer
+
+The JSON files in the `database/` directory contain dummy sample data provided solely for testing and demonstration purposes. This data is fictional and does not represent or relate to any real individuals or actual records.
+
+Please use sample data for testing and replace it with your own appropriate test data when needed.
+
 ## Project Purpose
 
 This project demonstrates the practical application of Python fundamentals and software development concepts through a structured, feature-rich Library Management System.
